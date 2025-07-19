@@ -101,24 +101,63 @@
 ### 📌 Popular Repositories
 
 <p align="left">
-  <a href="https://github.com/anshulverma1/credit-card-fraud-detection" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anshulverma1&repo=credit-card-fraud-detection&theme=radical" />
+  <a href="https://github.com/anshulverma1/guess-the-number-game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anshulverma1&repo=guess-the-number-game&theme=default" />
   </a>
-  &nbsp;
-  <a href="https://github.com/anshulverma1/eVoting-System" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anshulverma1&repo=eVoting-System&theme=radical" />
+  <a href="https://github.com/anshulverma1/Rock_Paper_Scissor_Game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anshulverma1&repo=Rock_Paper_Scissor_Game&theme=default" />
+  </a>
+  <br/>
+  <a href="https://github.com/anshulverma1/temprature-detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anshulverma1&repo=temprature-detection&theme=default" />
+  </a>
+  <a href="https://github.com/anshulverma1/todo-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anshulverma1&repo=todo-app&theme=default" />
+  </a>
+  <br/>
+  <a href="https://github.com/anshulverma1/jarvis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anshulverma1&repo=jarvis&theme=default" />
+  </a>
+  <a href="https://github.com/anshulverma1/DashBoard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anshulverma1&repo=DashBoard&theme=default" />
+  </a>
+</p>
+
+### 📌 Popular Repositories
+
+<p align="left">
+  <a href="https://github.com/anshulverma1/guess-the-number-game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anshulverma1&repo=guess-the-number-game&theme=default" />
+  </a>
+  <a href="https://github.com/anshulverma1/Rock_Paper_Scissor_Game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anshulverma1&repo=Rock_Paper_Scissor_Game&theme=default" />
+  </a>
+  <br/>
+  <a href="https://github.com/anshulverma1/temprature-detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anshulverma1&repo=temprature-detection&theme=default" />
+  </a>
+  <a href="https://github.com/anshulverma1/todo-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anshulverma1&repo=todo-app&theme=default" />
+  </a>
+  <br/>
+  <a href="https://github.com/anshulverma1/jarvis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anshulverma1&repo=jarvis&theme=default" />
+  </a>
+  <a href="https://github.com/anshulverma1/DashBoard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anshulverma1&repo=DashBoard&theme=default" />
   </a>
 </p>
 
 ### 📅 Contributions in the Last Year
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshulverma1&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshulverma1&theme=github" alt="GitHub Contribution Graph"/>
 </p>
 
 
-### 📈 Contribution Activity
+### 🧾 Contribution Activity Summary
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anshulverma1&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anshulverma1&theme=github" />
 </p>
+
