@@ -42,41 +42,51 @@
 
 ### 🧰 Languages and Tools
 
-
 <p align="left">
   <a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
-  </a>
+  </a>&nbsp;&nbsp;
+  
   <a href="https://en.wikipedia.org/wiki/FastAPI" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>
-  </a>
+  </a>&nbsp;&nbsp;
+
   <a href="https://en.wikipedia.org/wiki/TensorFlow" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>
-  </a>
+  </a>&nbsp;&nbsp;
+
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" alt="HTML5" width="40" height="40"/>
-  </a>
+  </a>&nbsp;&nbsp;
+
   <a href="https://en.wikipedia.org/wiki/CSS" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" alt="CSS3" width="40" height="40"/>
-  </a>
+  </a>&nbsp;&nbsp;
+
   <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>
-  </a>
+  </a>&nbsp;&nbsp;
+
   <a href="https://en.wikipedia.org/wiki/MySQL" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
-  </a>
+  </a>&nbsp;&nbsp;
+
   <a href="https://en.wikipedia.org/wiki/Flask_(web_framework)" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>
-  </a>
+  </a>&nbsp;&nbsp;
+
   <a href="https://en.wikipedia.org/wiki/Power_BI" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/power-bi.png" title="Power BI" alt="Power BI" width="40" height="40"/>
-  </a>
+  </a>&nbsp;&nbsp;
+
   <a href="https://en.wikipedia.org/wiki/GitHub" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
-  </a>
+  </a>&nbsp;&nbsp;
+
   <a href="https://en.wikipedia.org/wiki/Twilio" target="_blank">
-    <img src="https://seeklogo.com/images/T/twilio-logo-407B5A0F42-seeklogo.com.png" title="Twilio" alt="Twilio" width="40" height="40"/>
-  </a>
+    <img src="https://www.vectorlogo.zone/logos/twilio/twilio-icon.svg" title="Twilio" alt="Twilio" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+
   <a href="https://en.wikipedia.org/wiki/Streamlit" target="_blank">
     <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" title="Streamlit" alt="Streamlit" width="40" height="40"/>
   </a>
