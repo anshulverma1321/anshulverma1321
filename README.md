@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anshulverma1321/anshulverma1321/main/Red%20%26%20Black%20Geometric%20Gamer%20Youtube%20Banner.png" alt="Anshul Verma Banner" width="100%" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Anshul Verma</h1>
 <h3 align="center">Aspiring Data Scientist | ML Enthusiast | FastAPI Developer</h3>
 
