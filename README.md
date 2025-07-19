@@ -98,3 +98,27 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshulverma1&theme=radical&hide_border=false" alt="Anshul's GitHub Streak" />
 </p>
+### 📌 Popular Repositories
+
+<p align="left">
+  <a href="https://github.com/anshulverma1/credit-card-fraud-detection" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anshulverma1&repo=credit-card-fraud-detection&theme=radical" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/anshulverma1/eVoting-System" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anshulverma1&repo=eVoting-System&theme=radical" />
+  </a>
+</p>
+
+### 📅 Contributions in the Last Year
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshulverma1&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
+</p>
+
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anshulverma1&theme=radical" />
+</p>
