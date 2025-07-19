@@ -5,7 +5,7 @@
 
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://your-banner-link.png" alt="banner" width="100%" />
+  <img src="[https://your-banner-link.png](https://www.canva.com/design/DAGtl9MRcaU/_xSyULvfOjRbM8ElQGKxtA/edit?utm_content=DAGtl9MRcaU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)" alt="banner" width="100%" />
 </p>
 
 ---
