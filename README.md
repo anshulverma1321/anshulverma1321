@@ -87,7 +87,8 @@
     <img src="https://www.vectorlogo.zone/logos/twilio/twilio-icon.svg" title="Twilio" alt="Twilio" width="40" height="40"/>
   </a>&nbsp;&nbsp;
 
-  <a href="https://en.wikipedia.org/wiki/Streamlit" target="_blank">
-    <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" title="Streamlit" alt="Streamlit" width="40" height="40"/>
-  </a>
+<a href="https://en.wikipedia.org/wiki/Streamlit" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" title="Streamlit" alt="Streamlit" width="40" height="40"/>
+</a>
+
 </p>
