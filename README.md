@@ -2,22 +2,23 @@
   <img src="https://raw.githubusercontent.com/anshulverma1321/anshulverma1321/main/Red%20%26%20Black%20Geometric%20Gamer%20Youtube%20Banner.png" alt="Anshul Verma Banner" width="100%" />
 </p>
 
-
-<h1 align="center">Hi 👋, I'm Anshul Verma</h1>
-<h3 align="center">Aspiring Data Scientist | ML Enthusiast | FastAPI Developer</h3>
+<h1 align="center">Anshul Verma</h1>
+<h3 align="center">🚀 FastAPI Developer | 🤖 ML Enthusiast | 📊 Data-Driven Problem Solver</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anshulverma1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=anshulverma1321&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-### 💡 About Me
+### 💡 Who Am I?
 
-- 🎓 I'm a B.Tech Computer Science student at **COER University Roorkee**, specializing in **AI & ML**  
-- 🔭 Currently working on ML-powered backend systems with **Flask**, **FastAPI**, and **Twilio**
-- 👨‍💻 Participating in **hackathons**, building **real-world projects**, and upskilling in **MLOps**
-- 📬 Reach me at: [anshulvermaa0001@gmail.com](mailto:anshulvermaa0001@gmail.com)
+🎓 CSE (AI/ML) undergrad @ **COER University Roorkee**  
+🧠 Passionate about **building intelligent systems** and solving real-world problems  
+🔧 Skilled in **FastAPI**, **Flask**, **ML**, and backend development  
+📬 Drop a mail: [anshulvermaa0001@gmail.com](mailto:anshulvermaa0001@gmail.com)  
+
+---
 
 📄 **View My Resume: [Click here](https://drive.google.com/file/d/1p3tqJno3dyibpkH5NRd1uJqc6x0NL0BA/view?usp=sharing)**
 
