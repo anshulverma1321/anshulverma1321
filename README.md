@@ -123,6 +123,7 @@
   </a>
 </p>
 
+
 ### 📌 Popular Repositories
 
 <p align="left">
@@ -146,18 +147,5 @@
   <a href="https://github.com/anshulverma1/DashBoard">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=anshulverma1&repo=DashBoard&theme=default" />
   </a>
-</p>
-
-### 📅 Contributions in the Last Year
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshulverma1&theme=github" alt="GitHub Contribution Graph"/>
-</p>
-
-
-### 🧾 Contribution Activity Summary
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anshulverma1&theme=github" />
 </p>
 
