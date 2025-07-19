@@ -14,7 +14,7 @@
 - 👨‍💻 Participating in **hackathons**, building **real-world projects**, and upskilling in **MLOps**
 - 📬 Reach me at: [anshulvermaa0001@gmail.com](mailto:anshulvermaa0001@gmail.com)
 
-📄 **[View My Resume](https://drive.google.com/file/d/1p3tqJno3dyibpkH5NRd1uJqc6x0NL0BA/view?usp=sharing)**
+📄 **View My Resume: [View My Resume](https://drive.google.com/file/d/1p3tqJno3dyibpkH5NRd1uJqc6x0NL0BA/view?usp=sharing)**
 
 ---
 
