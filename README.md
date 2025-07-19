@@ -92,3 +92,9 @@
 </a>
 
 </p>
+
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshulverma1&theme=radical&hide_border=false" alt="Anshul's GitHub Streak" />
+</p>
