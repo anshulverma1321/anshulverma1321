@@ -15,7 +15,7 @@
 
 🎓 CSE (AI/ML) undergrad @ **COER University Roorkee**  
 🧠 Passionate about **building intelligent systems** and solving real-world problems  
-🔧 Skilled in **FastAPI**, **Flask**, **ML**, and backend development  
+🔧 Skilled in **FastAPI**, **Python and its several Libraries**, **ML**, **DL** and backend development  
 📬 Drop a mail: [anshulvermaa0001@gmail.com](mailto:anshulvermaa0001@gmail.com)  
 
 ---
