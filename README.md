@@ -13,7 +13,7 @@
 
 ### 💡 Who Am I?
 
-🎓 CSE (AI/ML) undergrad @ **COER University Roorkee**  
+🎓 CSE (AI/ML) undergrad @ **COER University, Roorkee**  
 🧠 Passionate about **building intelligent systems** and solving real-world problems  
 🔧 Skilled in **FastAPI**, **Python and its several Libraries**, **ML**, **DL** and backend development  
 📬 Drop a mail: [anshulvermaa0001@gmail.com](mailto:anshulvermaa0001@gmail.com)  
@@ -40,7 +40,7 @@
 ### 🧠 Technical Skills
 
 - **Languages:** Python, Java, MySQL  
-- **Frameworks & Tools:** Flask, FastAPI, TensorFlow, Streamlit, Dash, GitHub, Power BI  
+- **Frameworks & Tools:** Flask, FastAPI, TensorFlow, Streamlit, Dash, GitHub, Power BI, PyTorch
 - **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib  
 - **Others:** Jupyter Notebook, VS Code, Twilio, Kaggle  
 
