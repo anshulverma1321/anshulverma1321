@@ -10,7 +10,6 @@
 
 ---
 
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Backend+Developer;FastAPI+Specialist;Always+Learning+🚀" />
 </p>
@@ -37,6 +36,3 @@ const anshul = {
   funFact: "I debug with console.log 😄",
   motto: "Practice ➝ Perfection"
 };
-
-
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,java,mysql,fastapi,flask,tensorflow,pytorch,git,docker,streamlit" /> </p>
