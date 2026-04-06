@@ -21,20 +21,31 @@
 ```javascript
 const anshul = {
   location: "India 🇮🇳",
-  education: "B.Tech CSE (AI & ML) @ COER Roorkee",
-  role: "ML + Backend Developer",
+  education: "B.Tech CSE (AI & ML) @ COER University, Roorkee",
+  role: "Machine Learning & Backend Developer",
+
   currentFocus: [
-    "Machine Learning Systems",
-    "FastAPI Backend",
-    "System Design"
+    "Machine Learning Models",
+    "FastAPI Backend Development",
+    "Data Analysis & Visualization"
   ],
-  learning: [
-    "Docker",
-    "Microservices",
-    "Cloud Deployment"
+
+  skills: [
+    "Python",
+    "Scikit-learn",
+    "Pandas & NumPy",
+    "FastAPI",
+    "Matplotlib"
   ],
+
+  exploring: [
+    "Deep Learning",
+    "Model Deployment (APIs)",
+    "System Design Basics"
+  ],
+
   funFact: "I debug with console.log 😄",
-  motto: "Practice ➝ Perfection"
+  motto: "Practice ➝ Consistency ➝ Growth"
 };
 ```
 
