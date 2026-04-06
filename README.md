@@ -15,12 +15,12 @@
 </p>
 
 ---
-```javascript
 ## 👨‍💻 About Me
 
 <table>
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 <pre>
 <code>
@@ -44,7 +44,7 @@ const anshul = {
 
   exploring: [
     "GenAI",
-    "Model Deployment (APIs)",
+    "Model Deployment (APIs)"
   ],
 
   funFact: "I debug with console.log 😄",
@@ -54,14 +54,16 @@ const anshul = {
 </pre>
 
 </td>
-```
-<td width="50%" align="center">
+
+<td width="50%" align="center" valign="top">
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="90%" />
 
 </td>
+
 </tr>
 </table>
+
 ---
 
 
