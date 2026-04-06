@@ -20,37 +20,15 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 <pre>
 <code>
 const anshul = {
-  location: "India 🇮🇳",
-  education: "B.Tech CSE (AI & ML) @ COER University, Roorkee",
-  role: "Machine Learning & Backend Developer",
-
-  currentFocus: [
-    "Machine Learning Models",
-    "FastAPI Backend Development",
-    "Data Analysis & Visualization"
-  ],
-
-  skills: [
-    "Python",
-    "Scikit-learn",
-    "Pandas & NumPy",
-    "FastAPI",
-    "Matplotlib"
-  ],
-
-  exploring: [
-    "Deep Learning",
-    "Model Deployment (APIs)",
-    "System Design Basics"
-  ],
-
-  funFact: "I debug with console.log 😄",
-  motto: "Practice ➝ Consistency ➝ Growth"
+  role: "ML & Backend Developer",
+  focus: ["ML Models", "FastAPI", "Data Analysis"],
+  learning: ["Deep Learning", "APIs", "System Design"],
+  funFact: "console.log is my best friend 😄"
 };
 </code>
 </pre>
@@ -59,11 +37,18 @@ const anshul = {
 
 <td width="50%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="90%" />
+<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="90%" />
 
 </td>
 </tr>
 </table>
+
+---
+
+- 💻 Building ML models to solve real-world problems  
+- ⚡ Creating APIs using FastAPI for model deployment  
+- 📊 Strong in data analysis & visualization  
+- 🚀 Always learning and improving every day  
 
 ## 🛠️ Tech Arsenal
 
