@@ -37,3 +37,6 @@ const anshul = {
   funFact: "I debug with console.log 😄",
   motto: "Practice ➝ Perfection"
 };
+
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,java,mysql,fastapi,flask,tensorflow,pytorch,git,docker,streamlit" /> </p>
