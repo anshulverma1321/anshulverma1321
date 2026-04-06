@@ -40,18 +40,50 @@ const anshul = {
 
 ## 🛠️ Tech Arsenal
 
-### 💎 Core Technologies
+### 🧠 Machine Learning & Data Science
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,tailwind,ts,docker" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 </p>
 
 ---
 
-### 🎯 Languages & Tools
+### ⚙️ Backend & APIs
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java,html,css,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=fastapi,flask" />
+</p>
+
+---
+
+### 📊 Data Analysis & Visualization
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+<p align="center">
+  Pandas • NumPy • Matplotlib • Scikit-learn
+</p>
+
+---
+
+### 💾 Database
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+---
+
+### 🧰 Tools & Platforms
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+<p align="center">
+  Jupyter Notebook • Kaggle • Power BI • Streamlit • Dash • Twilio
 </p>
 
 ## 📊 GitHub Statistics
