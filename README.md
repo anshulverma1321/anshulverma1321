@@ -10,7 +10,6 @@
 
 ---
 
-## ⚡ Typing Animation
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Backend+Developer;FastAPI+Specialist;Always+Learning+🚀" />
