@@ -18,7 +18,12 @@
 
 ## 👨‍💻 About Me
 
-```javascript
+<table>
+<tr>
+<td width="50%">
+
+<pre>
+<code>
 const anshul = {
   location: "India 🇮🇳",
   education: "B.Tech CSE (AI & ML) @ COER University, Roorkee",
@@ -47,8 +52,19 @@ const anshul = {
   funFact: "I debug with console.log 😄",
   motto: "Practice ➝ Consistency ➝ Growth"
 };
-```
-</td> <td width="50%" align="center"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="90%" /> </td> </tr> </table> ``
+</code>
+</pre>
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="90%" />
+
+</td>
+</tr>
+</table>
+
 ## 🛠️ Tech Arsenal
 
 ### 🧠 Machine Learning & Data Science
