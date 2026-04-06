@@ -36,3 +36,44 @@ const anshul = {
   funFact: "I debug with console.log 😄",
   motto: "Practice ➝ Perfection"
 };
+```
+
+## 🛠️ Tech Arsenal
+
+### 💎 Core Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,tailwind,ts,docker" />
+</p>
+
+---
+
+### 🎯 Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java,html,css,git,github,vscode,postman" />
+</p>
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anshulverma1321&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anshulverma1321&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anshulverma1321&theme=radical&utcOffset=5.5" />
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshulverma1321&theme=react-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshulverma1321&theme=radical&hide_border=true" />
+</p>
+
