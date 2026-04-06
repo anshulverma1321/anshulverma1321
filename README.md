@@ -16,24 +16,43 @@
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
 <pre>
 <code>
 const anshul = {
-  role: "ML & Backend Developer",
-  focus: ["ML Models", "FastAPI", "Data Analysis"],
-  learning: ["Deep Learning", "APIs", "System Design"],
-  funFact: "console.log is my best friend 😄"
+  location: "India 🇮🇳",
+  education: "B.Tech CSE (AI & ML) @ COER University, Roorkee",
+  role: "Machine Learning & Backend Developer",
+
+  currentFocus: [
+    "Machine Learning Models",
+    "FastAPI Backend Development",
+    "Data Analysis & Visualization"
+  ],
+  skills: [
+    "Python",
+    "Scikit-learn",
+    "FastAPI",
+    "Matplotlib"
+  ],
+  exploring: [
+    "Deep Learning",
+    "Model Deployment (APIs)",
+  ],
+
+  funFact: "I debug with console.log 😄",
+  motto: "Practice ➝ Consistency ➝ Growth"
 };
 </code>
 </pre>
 
 </td>
+
 
 <td width="50%" align="center">
 
