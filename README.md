@@ -109,6 +109,42 @@ const anshul = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshulverma1321&theme=radical&hide_border=true" />
 </p>
 
+## 🚀 Featured Projects
+
+### 💳 Credit Card Fraud Detection  
+🔗 https://github.com/anshulverma1321/Credit-card-Fraud-detection  
+
+- Built a fraud detection system using **Machine Learning**
+- Handled imbalanced dataset using advanced techniques  
+- Focused on real-world financial risk detection  
+
+---
+
+### 🎤 DeepFake Voice Detection  
+🔗 https://github.com/anshulverma1321/DeepFake-Voice-Detection  
+
+- Developed a model to detect AI-generated fake voices  
+- Applied **deep learning techniques for audio classification**  
+- Strong real-world application in security & media  
+
+---
+
+### 📊 E-commerce Customer Segmentation  
+🔗 https://github.com/anshulverma1321/E-commerce-Customer-Segmentation  
+
+- Used **unsupervised learning (clustering)**  
+- Grouped customers based on purchasing behavior  
+- Useful for targeted marketing strategies  
+
+---
+
+### 📉 Customer Churn Prediction  
+🔗 https://github.com/anshulverma1321/Churn-prediction  
+
+- Predicted customer churn using ML models  
+- Focused on improving retention strategies  
+- Applied data preprocessing and feature engineering  
+
 
 ## 🌐 Connect With Me
 
