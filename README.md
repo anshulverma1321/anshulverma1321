@@ -54,7 +54,7 @@ const anshul = {
 </pre>
 
 </td>
-
+```
 <td width="50%" align="center">
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="90%" />
@@ -63,7 +63,7 @@ const anshul = {
 </tr>
 </table>
 ---
-```
+
 
 
 - 💻 Building ML models to solve real-world problems  
