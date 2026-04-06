@@ -15,40 +15,56 @@
 </p>
 
 ---
+```javascript
+## 👨‍💻 About Me
 
-# 👨‍💻 About Me
-
-<td width="50%" valign="top">
+<table>
+<tr>
+<td width="50%">
 
 <pre>
 <code>
-<span style="color:#ff7b72;">const</span> anshul = {
-  <span style="color:#79c0ff;">location</span>: <span style="color:#a5d6ff;">"India 🇮🇳"</span>,
-  <span style="color:#79c0ff;">role</span>: <span style="color:#a5d6ff;">"ML & Backend Developer"</span>,
+const anshul = {
+  location: "India 🇮🇳",
+  education: "B.Tech CSE (AI & ML) @ COER University, Roorkee",
+  role: "Machine Learning & Backend Developer",
 
-  <span style="color:#79c0ff;">focus</span>: [
-    <span style="color:#a5d6ff;">"Machine Learning"</span>,
-    <span style="color:#a5d6ff;">"FastAPI"</span>,
-    <span style="color:#a5d6ff;">"Data Analysis"</span>
+  currentFocus: [
+    "Machine Learning Models",
+    "FastAPI Backend Development",
+    "Data Analysis & Visualization"
   ],
 
-  <span style="color:#79c0ff;">funFact</span>: <span style="color:#a5d6ff;">"console.log is my best friend 😄"</span>
+  skills: [
+    "Python",
+    "Scikit-learn",
+    "FastAPI",
+    "Matplotlib"
+  ],
+
+  exploring: [
+    "GenAI",
+    "Model Deployment (APIs)",
+  ],
+
+  funFact: "I debug with console.log 😄",
+  motto: "Practice ➝ Consistency ➝ Growth"
 };
 </code>
 </pre>
 
 </td>
 
-
 <td width="50%" align="center">
 
-<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="90%" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="90%" />
 
 </td>
 </tr>
 </table>
-
 ---
+```
+
 
 - 💻 Building ML models to solve real-world problems  
 - ⚡ Creating APIs using FastAPI for model deployment  
