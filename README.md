@@ -22,18 +22,11 @@
 
 <td width="50%" valign="top">
 
-<pre>
-<code>
+```javascript
 const anshul = {
   location: "India 🇮🇳",
   education: "B.Tech CSE (AI & ML) @ COER University, Roorkee",
   role: "Machine Learning & Backend Developer",
-
-  currentFocus: [
-    "Machine Learning Models",
-    "FastAPI Backend Development",
-    "Data Analysis & Visualization"
-  ],
 
   skills: [
     "Python",
@@ -50,24 +43,7 @@ const anshul = {
   funFact: "I debug with console.log 😄",
   motto: "Practice ➝ Consistency ➝ Growth"
 };
-</code>
-</pre>
-
-</td>
-
-<td width="50%" align="center" valign="top">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="90%" />
-
-</td>
-
-</tr>
-</table>
-
----
-
-
-
+```
 - 💻 Building ML models to solve real-world problems  
 - ⚡ Creating APIs using FastAPI for model deployment  
 - 📊 Strong in data analysis & visualization  
