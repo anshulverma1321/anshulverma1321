@@ -45,7 +45,7 @@ const anshul = {
 };
 ```
 </td> <td width="50%" align="center" valign="middle"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80%" /> </td> </tr> </table>
-- 💻 Building ML models to solve real-world problems  
+- 💻 Building ML and DL models to solve real-world problems  
 - ⚡ Creating APIs using FastAPI for model deployment  
 - 📊 Strong in data analysis & visualization  
 - 🚀 Always learning and improving every day  
